@@ -1,0 +1,141 @@
+body {
+align-items: center;
+margin: 0px;
+text-align: center;
+color: #40514E;
+font-family: 'Rouge Script', cursive;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 50%;
+}
+p {
+  font-size: 30px;
+  margin-bottom: 50px;
+  width: 200px;
+  margin: auto;
+
+}
+h1{
+  color: #63B7AF;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+}
+h2 {
+  color: #63B7AF;
+font-family: 'Permanent Marker', cursive;
+}
+h3 {
+  color: #63B7AF;
+font-family: 'Permanent Marker', cursive;
+}
+.con{
+  margin: auto;
+  margin-bottom: 30px;
+}
+.aa{
+height: 100px;
+}
+.foot {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+
+}
+.b{
+
+}
+.skillcode {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+
+
+}
+.top{
+
+  background-color: #D4F3EF;
+  align-content: center;
+}
+.mou {
+  height:400px;
+  width: 800px;
+  margin: auto;
+  margin-top: 30px;
+
+}
+.topc{
+  margin-top: 50px;
+  margin-bottom: 30px;
+position: relative;
+left:  400px;
+
+
+}
+.topd{
+  position: absolute;
+  bottom: 200px;
+  left: 210px;
+
+}
+.sk {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.bottom{
+
+  height: 50px;
+
+}
+.footer:hover {
+  color: orange;
+}
+.footer {
+  color: black;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+  .btn {
+  	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+  	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+  	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+  	background-color:#007dc1;
+  	-webkit-border-top-left-radius:3px;
+  	-moz-border-radius-topleft:3px;
+  	border-top-left-radius:3px;
+  	-webkit-border-top-right-radius:3px;
+  	-moz-border-radius-topright:3px;
+  	border-top-right-radius:3px;
+  	-webkit-border-bottom-right-radius:3px;
+  	-moz-border-radius-bottomright:3px;
+  	border-bottom-right-radius:3px;
+  	-webkit-border-bottom-left-radius:3px;
+  	-moz-border-radius-bottomleft:3px;
+  	border-bottom-left-radius:3px;
+  text-indent:0;
+  	border:1px solid #124d77;
+  	display:inline-block;
+  	color:#ffffff;
+  	font-family:Trebuchet MS;
+  	font-size:15px;
+  	font-weight:bold;
+  	font-style:italic;
+  height:48px;
+  	line-height:48px;
+  width:140px;
+  	text-decoration:none;
+  	text-align:center;
+  	text-shadow:0px 1px 0px #154682;
+  }.btn:hover {
+  	background-color:#0061a7;
+  }.btn:active {
+  	position:relative;
+  	top:1px;
+  }
